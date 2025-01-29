@@ -1,0 +1,6 @@
+browser-use
+langchain
+playwright
+langchain
+openai
+pandas
